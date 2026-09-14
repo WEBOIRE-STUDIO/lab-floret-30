@@ -1,0 +1,66 @@
+{
+  "templateKey": "general_business",
+  "heroVariant": "dark-glass",
+  "serviceLayout": "bento-grid",
+  "ctaStyle": "gradient",
+  "paletteSeed": 1,
+  "heroSeed": 1,
+  "copySeed": 1,
+  "visualSystem": {
+    "key": "dark-premium",
+    "label": "Dark Premium",
+    "dark": true,
+    "cardStyle": "glass",
+    "ctaLayout": "split-image",
+    "selectionReason": "explicitly forced"
+  },
+  "motionPreset": {
+    "key": "cinematic-parallax-reveal",
+    "label": "Cinematic Parallax + Image Reveal",
+    "selectionReason": "sticky-storytelling requires 3+ verified services (found 2) — fell back to cinematic-parallax-reveal",
+    "contentGated": true
+  },
+  "experimentalPreset": null,
+  "selectionSignals": {
+    "servicesCount": 2,
+    "imagePoolCount": 0,
+    "hasRelevantImagery": false
+  },
+  "resolvedVisualDirection": {
+    "palette_source": "template_default",
+    "palette_key": "teal",
+    "palette": {
+      "key": "teal",
+      "primary": "#0c8599",
+      "primaryDark": "#08606f",
+      "accent": "#f08c00",
+      "textDark": "#0b1d20",
+      "textOnPrimary": "#ffffff",
+      "bgLight": "#f4fbfc",
+      "bgAlt": "#e6f5f7",
+      "border": "#c9e8ec",
+      "radius": "10px",
+      "ctaStyle": "gradient",
+      "headingFont": "Manrope",
+      "bodyFont": "Inter",
+      "googleFonts": "Manrope:wght@600;700;800|Inter:wght@400;500;600"
+    },
+    "hero_variant": "dark-glass",
+    "section_style": "boxed",
+    "image_category": "general",
+    "matched_keywords": [],
+    "visual_system": "dark-premium",
+    "visual_system_label": "Dark Premium",
+    "visual_system_reason": "explicitly forced",
+    "motion_preset": "cinematic-parallax-reveal",
+    "motion_preset_label": "Cinematic Parallax + Image Reveal",
+    "motion_preset_reason": "sticky-storytelling requires 3+ verified services (found 2) — fell back to cinematic-parallax-reveal",
+    "motion_preset_content_gated": true,
+    "services_count": 2,
+    "image_pool_count": 0,
+    "has_relevant_imagery": false,
+    "experimental_preset": null,
+    "experimental_preset_label": null,
+    "experimental_preset_reason": null
+  }
+}
